@@ -1,0 +1,24 @@
+{
+	"ImportPath": "github.com/Luzifer/dirsize",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Luzifer/rconfig",
+			"Comment": "v1.2.0",
+			"Rev": "7aef1d393c1e2d0758901853b59981c7adc67c7e"
+		},
+		{
+			"ImportPath": "github.com/spf13/pflag",
+			"Rev": "e57e3eeb33f795204c1ca35f56c44f83227c6e66"
+		},
+		{
+			"ImportPath": "gopkg.in/validator.v2",
+			"Rev": "07ffaad256c8e957050ad83d6472eb97d785013d"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Rev": "cd8b52f8269e0feb286dfeef29f8fe4d5b397e0b"
+		}
+	]
+}
